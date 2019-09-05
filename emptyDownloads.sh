@@ -16,9 +16,9 @@ mv $downloads/*.{mpg,MPG,MPEG,mpeg,mp4,MP4,AVI,MOV,avi,mov} $user/videos > /dev/
 # Exiting for now :)
 echo
 echo
-echo all images with jpg, jpeg, svg, gif, ico, png, bpm where moved to img folder
-echo all videos with mpg, mpeg, mov, mp4, avi were moved to video folder
-echo I will miss you
+echo "all images with jpg, jpeg, svg, gif, ico, png, bpm where moved to img folder"
+echo "all videos with mpg, mpeg, mov, mp4, avi were moved to video folder"
+echo "I will miss you"
 tput setaf 0
 echo "              Bye $USER"
 tput setaf  1
